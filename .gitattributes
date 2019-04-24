@@ -1,2 +1,3 @@
 config.js filter=git-crypt diff=git-crypt
 config1.js filter=git-crypt diff=git-crypt
+config2.js filter=git-crypt diff=git-crypt
